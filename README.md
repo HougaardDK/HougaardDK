@@ -13,4 +13,4 @@ I'm interested in cybersecurity, reverse engineering and systems programming. Cu
 
 ## Interests
 
-Cybersecurity • Reverse Engineering • Systems Programming • Software Development
+Cybersecurity, Reverse Engineering, Systems Programming and Software Development
