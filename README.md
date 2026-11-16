@@ -1,16 +1,15 @@
-# About Me
+# Hey, I'm Hougaard
 
-I'm 16 years old and from Denmark. I have experience with Rust, C++, Lua and MySQL.
+I'm 16 years old and from Denmark.
 
-I'm interested in cybersecurity, reverse engineering and systems programming. Currently spending most of my time learning more about security and working on my own projects.
+I mainly code in Rust and C++, but I've also worked with Lua and MySQL.
 
-## Languages & Tools
+Lately I've been getting more into cybersecurity, especially reverse engineering and understanding how software works internally.
 
-![Rust](https://skillicons.dev/icons?i=rust)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Lua](https://skillicons.dev/icons?i=lua)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+### Languages & Tools
 
-## Interests
+<img src="https://skillicons.dev/icons?i=rust,cpp,lua,mysql,linux,git&theme=dark" />
 
-Cybersecurity, Reverse Engineering, Systems Programming and Software Development
+### Currently
+
+Learning more about cybersecurity and working on my own projects.
